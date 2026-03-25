@@ -1,11 +1,16 @@
+## Running the code
+  Please make sure you have Node.js installed on your machine.
 
-  # Messaging app web UI
+  If you don't have Node.js isntalled, please do so and then restart your terminal.
 
-  This is a code bundle for Messaging app web UI. The original project is available at https://www.figma.com/design/vrh2vP3NjLmcUp1oS3hvQa/Messaging-app-web-UI.
+  After restarting terminal, run these commands:
+  `node -v`
+  `npm -v`
 
-  ## Running the code
+  If they return version numbers, proceed.
 
-  Run `npm i` to install the dependencies.
+  Run `npm install` to install the dependencies.
 
-  Run `npm run dev` to start the development server.
+  Run `npm run dev` to start the development server. You will see a message that says LocalHost: [url]. 
+  Copy paste the url into your browser to view the webpage.
   
